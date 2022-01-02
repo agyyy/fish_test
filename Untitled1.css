@@ -1,0 +1,26 @@
+.accordion {
+    width: 500px;
+    margin: 50px auto;
+}
+.accordion-trigger {
+    margin: 0;
+    padding: 10px;
+    display: block;
+    background-color: tomato;
+    color: #fff;
+    border-top: 1px solid #fff;
+    text-decoration: none;
+}
+.accordion-contents {
+    margin: 0;
+    padding: 10px;
+    border: 1px solid tomato;
+    display: none;
+}
+.title {
+  width: 500px;
+  margin: 50px auto;
+}
+h3 {
+  margin-bottom: 0px;
+}
